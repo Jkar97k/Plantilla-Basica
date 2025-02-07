@@ -1,0 +1,6 @@
+@api_basica_HostAddress = http://localhost:5269
+
+GET {{api_basica_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
